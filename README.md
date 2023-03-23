@@ -9,11 +9,7 @@ centres will plan the stock of raw materials accordingly.
 The replenishment of most raw materials is done on a weekly basis and since the raw material 
 is perishable, procurement planning is of utmost importance. Secondly, staffing of the centres 
 is also one area wherein accurate demand forecasts are really helpful. 
-We have the below 
-information with us in the form of 3 different datasets:
-  o Historical data of demand for a product-centre combination
-  o Product (Meal) features such as category, sub-category, current price, and discount
-  o Information for fulfilment centres like centre area, city information, etc.
+We have the below information with us in the form of 3 different datasets: Historical data of demand for a product-centre combination, Product (Meal) features such as category, sub-category, current price, and discount, Information for fulfilment centres like centre area, city information, etc.
 The dataset required has been provided along with this document.
 Here is a story in Tableau that talks about the level of demand in each
 centre. This analysis is granular enough to include product information as well. The
